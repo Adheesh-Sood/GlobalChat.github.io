@@ -1,0 +1,49 @@
+body{
+    background-color: #151515;
+}
+h1{
+    color:aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+label{
+    color:#fff;
+    font-family: cursive;
+    font-weight:bold;
+    font-size:23px;
+}
+input{
+    background-color: #151515;
+    color:aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 8px;
+    font-size: 25px;
+    border: 2px solid #F9A826;
+}
+button , #sendButton{
+    background-color: #151515;
+    color:#F9A826;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 25px;
+    border:2px solid #fff;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    transition: ease-in-out 1.5s;
+    background-color: #F9A826;
+    color: black;
+
+}
+
+p{
+    color:#fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 21px;
+    
+}
